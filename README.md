@@ -1,4 +1,3 @@
-# VS-Code-Extension
 # VS Code Extension Sample
 
 This is a sample project that demonstrates how to create a Visual Studio Code extension that helps a user navigate an example website through VS Code. The extension allows the user to search for specific webpages on the website and open them in a new window.
